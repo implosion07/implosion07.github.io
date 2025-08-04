@@ -1,2 +1,2 @@
-# implosion07.github.io
-Portfolio
+# Portfolio
+This repository contains files for my personal portfolio
